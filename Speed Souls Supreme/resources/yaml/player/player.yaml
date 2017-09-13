@@ -1,0 +1,9 @@
+player:
+  car-selected: silver
+  stats:
+    currency: 1000
+    engine: 0
+    handling: 0
+    wheel: 0
+  tracks-completed: 0
+  tracks-selected: 1
